@@ -1,4 +1,9 @@
 -e . # automtiaclly trigger setup.py file
-pandas 
+pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
